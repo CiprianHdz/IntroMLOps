@@ -22,3 +22,7 @@ format:
 
 # Run both linting and formatting
 check: lint format
+
+# Build Docker Image inside ./model
+build:
+	cd model && docker build -t loan_prediction .
