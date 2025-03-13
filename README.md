@@ -1,5 +1,7 @@
 # IntroMLOps
 
+Slides [Here](https://docs.google.com/presentation/d/1CAaNZtyCv5nmif1a03c6tZSTQdc47DF1Ssd_v8NI9yA/edit?usp=sharing) (Only for CIMAT) 
+
 
 Step 1. (If Docker installed) Test Docker Image in your computer
 
