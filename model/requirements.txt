@@ -1,0 +1,15 @@
+scikit-learn==1.6.1
+joblib==1.4.2
+numpy==2.0.2
+pandas==2.2.3
+scipy==1.13.1
+fastapi==0.115.11
+fastapi[standard]==0.115.11
+flake8==7.1.2
+pytest==8.3.5
+uvicorn==0.34.0
+wheel==0.41.2
+setuptools==68.2.0
+urllib3==1.26.16
+
+

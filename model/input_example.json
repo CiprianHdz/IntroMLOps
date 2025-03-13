@@ -1,0 +1,30 @@
+[
+   {
+      "comment": "Example of an approval",
+      "Gender": "Male",
+      "Married": "Yes",
+      "Dependents": "0",
+      "Education": "Graduate",
+      "Self_Employed": "No",
+      "ApplicantIncome": 5720.0,
+      "CoapplicantIncome": 0.0,
+      "LoanAmount": 110.0,
+      "Loan_Amount_Term": 360.0,
+      "Credit_History": 1.0,
+      "Property_Area": "Urban"
+   },
+   {
+      "comment": "Example of rejected loan",
+      "Gender": "Female",
+      "Married": "Yes",
+      "Dependents": "0",
+      "Education": "Graduate",
+      "Self_Employed": "No",
+      "ApplicantIncome": 10.0,
+      "CoapplicantIncome": 1000.0,
+      "LoanAmount": 110.0,
+      "Loan_Amount_Term": 360.0,
+      "Credit_History": 0.0,
+      "Property_Area": "Urban"
+   }
+]
