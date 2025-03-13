@@ -1,10 +1,10 @@
 # Import Libraries
 # Import other files/modules
 import config
+import preprocessors as pp
 from sklearn.linear_model import LogisticRegression
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import MinMaxScaler
-import preprocessors as pp
 
 loan_pipe = Pipeline(
     [

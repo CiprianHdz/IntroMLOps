@@ -18,7 +18,6 @@ def save_pipeline(pipeline_to_save):
     print("Saved Pipeline : ", save_file_name)
 
 
-
 def load_pipeline(pipeline_to_load):
     """Importing pickle file of trained Model"""
     return joblib.load(pipeline_to_load)
