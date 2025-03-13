@@ -21,7 +21,9 @@ jobs:
           pip install -r ./model/requirements.txt
 
       - name: Lint Code
-        run: make lint
+        run: |
+          source .venv/bin/activate
+          make lint
 
       - name: Build Docker Image
         run: make build
