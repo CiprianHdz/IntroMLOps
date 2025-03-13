@@ -52,5 +52,37 @@ Step 2. (If no docker install, try on your computer)
 
 
 
+References: 
+
+
+Books:
+
+* McMahon, A. P. (2023). Machine Learning Engineering with Python: Manage the production life cycle of machine learning models using MLOps with practical examples. Packt Publishing
+* Tashman, N., & Bourdev, B. (2022). Practical MLOps: Operationalizing Machine Learning Models. O’Reilly Media.
+* Pote, S. (2023). Machine Learning in Production: Master the art of delivering robust Machine Learning solutions with MLOps. BPB Publications.
+* Chung, C. (2022). Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications. O’Reilly Media.
+
+
+Websites/Tutorials:
+
+* https://github.com/suhas-ds?tab=repositories
+* https://mlflow.org/docs/latest/getting-started/running-notebooks/
+* https://anderfernandez.com/en/blog/complete-mlflow-tutorial/
+* https://dagshub.com/blog/model-deployment-types-strategies-and-best-practices/#challenges-in-ml-models-deployment
+* Tutorial COMIA Patrones de Diseño y MLOps:Fundamentos y Aplicaciones ([Repo](https://github.com/Ivanrs297/mlops-mlflow-tracking))
+* https://github.com/marketplace/actions/deploy-to-heroku
+* https://www.ml4devs.com/en/articles/serverless-architecture-for-microservices-on-aws-vs-google-cloud-vs-azure-as-iaas-caas-paas-faas/
+* https://www.anyscale.com/blog/challenges-of-deploying-ml-models-in-production
+
+
+
+
+
+
+
+
+
+
+
 
 
